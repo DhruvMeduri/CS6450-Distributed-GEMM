@@ -1,0 +1,5 @@
+matrix_size,compute,discB_compute,sharedB_compute
+10,0.02,0.05,0.01
+100,0.01,0.03,0.01
+1000,2.01,1.17,1.21
+2000,19.51,9.18,9.29
